@@ -123,7 +123,7 @@ Credit: Hanno Müller
 
 Figure 07 shows anomaly maps of mean sea level pressure, 2m temperature, 850hPa temperature and integrated water vapour based on ERA5 for the entire HALO–(AC)3 campaign, the warm and the cold period.
 
-The code to reproduce Figure 07 can be found [here](src/fig07/).
+The code to reproduce Figure 07 can be found [here](../src/fig07/).
 
 ## Requirements
 The following list shows the needed python packages to run the code:
