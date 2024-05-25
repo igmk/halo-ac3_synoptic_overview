@@ -147,7 +147,7 @@ Credit: Henning Dorff
 
 Figure 08 shows the climatological (1979–2022) distribution of central latitudes of Atmospheric Rivers (ARs) as a function of mean AR integrated water vapour transport as well as cases categorized as ARs during the HALO-(AC)3 campaign.
 
-The code to reproduce Figure 09 can be found [here](src/fig08/).
+The code to reproduce Figure 09 can be found [here](../src/fig08/).
 
 ## Requirements
 The following list shows the needed python packages to run the code:
@@ -170,7 +170,7 @@ Credit: Melanie Lauer
 
 Figure 09 shows hourly averaged precipitation, snowfall and rain rate derived from ERA5 for 11–20 March 2022, and the corresponding climatology.
 
-The code to reproduce Figure 09 can be found [here](src/fig09). 
+The code to reproduce Figure 09 can be found [here](../src/fig09). 
 
 ## Requirements
 The following list shows the needed python packages to run the code:
@@ -224,7 +224,7 @@ Credit: Henning Dorff
 
 Figure 11 shows ERA5-based duration and strength of MCAOs in the central domain for the period 1979–2022 as well as the MCAO cases categorized during HALO-(AC)3.
 
-The code to reproduce Figure 11 can be found [here](src/fig11/).
+The code to reproduce Figure 11 can be found [here](../src/fig11/).
 
 ## Requirements
 The following list shows the needed python packages to run the code:
@@ -247,7 +247,7 @@ Credit: Janna Rückert
 Figure 12 shows average sea ice concentration for two three–day time periods during the HALO–(AC)3 campaign. Data is from the MODIS-AMSR2 product at 1km grid resolution.
 It further shows sea ice concentration time series and climatological data from the OSI–SAF sea ice concentration climate data record.
 
-The code to reproduce Figure 12 can be found [here](src/fig12/).
+The code to reproduce Figure 12 can be found [here](../src/fig12/).
 
 ## Requirements
 An environment file containing all needed python packages is provided: [environment.yml](../src/fig12/environment.yml)
@@ -265,7 +265,7 @@ Credit: Henning Dorff
 
 Figure A1 shows Integrated Water Vapour Transport (IVT) from ERA5 for Moist Air Intrusions/ Atmospheric Rivers during the HALO-(AC)3 campaign.
 
-The code to reproduce Figure A1 can be found [here](src/figA1/).
+The code to reproduce Figure A1 can be found [here](../src/figA1/).
 
 
 # Figure B1
